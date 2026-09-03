@@ -9,10 +9,10 @@
 [Mm]emoryCaptures/
 [Rr]ecordings/
 # Visual Studio 和 JetBrains Rider 缓存目录
-vs/
-idea/
+.vs/
+.idea/
 # Gradle 缓存目录
-gradle/
+.gradle/
 # 自动生成的解决方案和项目文件
 ExportedObj/
 consulo/
