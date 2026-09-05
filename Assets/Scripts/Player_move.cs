@@ -5,7 +5,7 @@ public class Player_move : MonoBehaviour
     [Header("移动设置")]
     [SerializeField] private float moveSpeed = 6f;
     [SerializeField] private float sprintSpeed = 10f;
-    [SerializeField] private float jumpHeight = 1.2f;
+    [SerializeField] private float jumpHeight = 2f;
     [SerializeField] private float gravity = -9.81f;
 
     private CharacterController controller;
